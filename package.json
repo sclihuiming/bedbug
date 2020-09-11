@@ -1,0 +1,27 @@
+{
+  "name": "bedbug",
+  "version": "0.0.1",
+  "description": "try try",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sclihuiming/bedbug.git"
+  },
+  "keywords": [
+    "video",
+    "aggregation"
+  ],
+  "author": "hamlin.li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sclihuiming/bedbug/issues"
+  },
+  "homepage": "https://github.com/sclihuiming/bedbug#readme",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
